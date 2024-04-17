@@ -1,0 +1,81 @@
+{
+	"categories": [
+	  {
+		"id": 1,
+		"name": "Основные блюда",
+		"subcategories": [
+		  {
+			"id": 2,
+			"name": "Мясные блюда",
+			"subcategories": [
+			  {
+				"id": 3,
+				"name": "Говядина",
+				"subcategories": []
+			  },
+			  {
+				"id": 4,
+				"name": "Свинина",
+				"subcategories": []
+			  }
+			]
+		  },
+		  {
+			"id": 5,
+			"name": "Рыбные блюда",
+			"subcategories": [
+			  {
+				"id": 6,
+				"name": "Морская рыба",
+				"subcategories": []
+			  },
+			  {
+				"id": 7,
+				"name": "Речная рыба",
+				"subcategories": []
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"id": 8,
+		"name": "Десерты",
+		"subcategories": [
+		  {
+			"id": 9,
+			"name": "Торты и пирожные",
+			"subcategories": [
+			  {
+				"id": 10,
+				"name": "Торты",
+				"subcategories": []
+			  },
+			  {
+				"id": 11,
+				"name": "Пирожные",
+				"subcategories": []
+			  }
+			]
+		  },
+		  {
+			"id": 12,
+			"name": "Мороженое",
+			"subcategories": [
+			  {
+				"id": 13,
+				"name": "Фруктовое мороженое",
+				"subcategories": []
+			  },
+			  {
+				"id": 14,
+				"name": "Шоколадное мороженое",
+				"subcategories": []
+			  }
+			]
+		  }
+		]
+	  }
+	]
+  }
+  
