@@ -1,3 +1,96 @@
-
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Основные блюда",
+      "position": 1,
+      "subcategories": [
+        {
+          "id": 2,
+          "name": "Мясные блюда",
+          "position": 1,
+          "subcategories": [
+            {
+              "id": 3,
+              "name": "Говядина",
+              "position": 1,
+              "subcategories": []
+            },
+            {
+              "id": 4,
+              "name": "Свинина",
+              "position": 2,
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Рыбные блюда",
+          "position": 2,
+          "subcategories": [
+            {
+              "id": 6,
+              "name": "Морская рыба",
+              "position": 1,
+              "subcategories": []
+            },
+            {
+              "id": 7,
+              "name": "Речная рыба",
+              "position": 2,
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Десерты",
+      "position": 2,
+      "subcategories": [
+        {
+          "id": 9,
+          "name": "Торты и пирожные",
+          "position": 1,
+          "subcategories": [
+            {
+              "id": 10,
+              "name": "Торты",
+              "position": 1,
+              "subcategories": []
+            },
+            {
+              "id": 11,
+              "name": "Пирожные",
+              "position": 2,
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Мороженое",
+          "position": 2,
+          "subcategories": [
+            {
+              "id": 13,
+              "name": "Фруктовое мороженое",
+              "position": 1,
+              "subcategories": []
+            },
+            {
+              "id": 14,
+              "name": "Шоколадное мороженое",
+              "position": 2,
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
 
   
