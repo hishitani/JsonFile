@@ -65,7 +65,14 @@
               "id": 11,
               "name": "Пирожные",
               "position": 2,
-              "subcategories": []
+              "subcategories": [
+                {
+                  "id": 15,
+                  "name": "Шоколадное мороженое",
+                  "position": 5,
+                  "subcategories": []
+                }
+              ]
             }
           ]
         },
